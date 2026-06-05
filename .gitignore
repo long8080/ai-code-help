@@ -34,3 +34,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Frontend
+ai-code-help-web/node_modules/
+ai-code-help-web/dist/
